@@ -1,0 +1,21 @@
+body{
+    width: 600px;
+}
+.one,.three{
+    padding: 32px;
+}
+.one{
+    margin: 12px;
+    background-color: plum;
+    border: blue 2px solid;
+}
+.two{
+    background-color: aqua;
+    border: 2px purple solid;
+}
+.three{
+    margin: 48px;
+    margin-left: 400px;
+    background-color: sandybrown;
+    border: 2px solid brown;
+}
